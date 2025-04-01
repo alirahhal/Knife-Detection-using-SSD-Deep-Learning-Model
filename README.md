@@ -4,7 +4,7 @@ This repository contains the code for training an SSD deep learning model archit
 
 ## Data
 
-Data was downloaded from [here](https://github.com/ari-dasci/OD-WeaponDetection/tree/master/Knife_detection) directly into google drive in the Jubyter Note code.
+Data was downloaded from [here](https://github.com/ari-dasci/OD-WeaponDetection/tree/master/Knife_detection) directly into google drive in the Jupyter Note code.
 
 ## Results
 
